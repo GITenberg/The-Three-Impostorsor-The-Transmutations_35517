@@ -1,0 +1,34 @@
+_repo: The-Three-Impostorsor-The-Transmutations_35517
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: ''
+gutenberg_issued: '2011-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+tableOfContents: Prologue -- Adventure of the gold Tiberius -- The encounter of the
+  pavement -- Novel of the dark valley -- Adventure of the missing brother -- Novel
+  of the black seal -- Incident of the private bar -- The decorative imagination --
+  Novel of the iron maid -- The recluse of Bayswater -- Novel of the white powder
+  -- Strange occurrence in Clerkenwell -- History of the young man with spectacles
+  -- Adventure of the deserted residence.
+title: The Three Impostors; or, The Transmutations
+url: http://www.gutenberg.org/ebooks/35517
